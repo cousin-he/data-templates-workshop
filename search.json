@@ -114,21 +114,21 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "COUSIN Workshop",
+    "title": "COUSIN Workshop Website",
     "section": "",
     "text": "Welcome to the COUSIN Workshop Website.\nThis platform gathers all the documentation and tutorials required for researchers, engineers, and students working on the COUSIN project.\nIt is designed to support two main areas:\n\n🌿 Germinate Data Importation → for biological dataset management.\n⚙️ Data Pipelines & Airflow → for automation, reproducibility, and scalability of workflows.\n\n\n\n\n\n\nLearn how to prepare and upload data into Germinate using templates and structured processes.\nThis section covers:\n\n✅ Before you start\n📂 Template files (Passport, Trials, Environmental data)\n⬆️ Uploading process\n📝 Final considerations\n\n👉 Read the Guide\n\n\n\n\nUnderstand how data pipelines are designed and orchestrated with Apache Airflow in the COUSIN project.\nThis section covers:\n\n🎯 Objectives and high-level architecture\n🔄 Pipeline stages (ETL)\n🧩 Apache Airflow concepts and example DAGs\n🐳 Deployment with Docker\n\n👉 Explore the Pipelines\n\n\n\n\n\nThis workshop is part of COUSIN WP5 efforts, led by:\n\nJosé Felipe Ortega Soto (WP leader)\nStephan Weise (WP Leader)\n\n\n📌 Use the navigation bar or links above to access the specific guides."
   },
   {
     "objectID": "index.html#workshop-contents",
     "href": "index.html#workshop-contents",
-    "title": "COUSIN Workshop",
+    "title": "COUSIN Workshop Website",
     "section": "",
     "text": "Learn how to prepare and upload data into Germinate using templates and structured processes.\nThis section covers:\n\n✅ Before you start\n📂 Template files (Passport, Trials, Environmental data)\n⬆️ Uploading process\n📝 Final considerations\n\n👉 Read the Guide\n\n\n\n\nUnderstand how data pipelines are designed and orchestrated with Apache Airflow in the COUSIN project.\nThis section covers:\n\n🎯 Objectives and high-level architecture\n🔄 Pipeline stages (ETL)\n🧩 Apache Airflow concepts and example DAGs\n🐳 Deployment with Docker\n\n👉 Explore the Pipelines"
   },
   {
     "objectID": "index.html#acknowledgment",
     "href": "index.html#acknowledgment",
-    "title": "COUSIN Workshop",
+    "title": "COUSIN Workshop Website",
     "section": "",
     "text": "This workshop is part of COUSIN WP5 efforts, led by:\n\nJosé Felipe Ortega Soto (WP leader)\nStephan Weise (WP Leader)\n\n\n📌 Use the navigation bar or links above to access the specific guides."
   }
