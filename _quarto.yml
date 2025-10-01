@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "data-pipelines"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: germinate/index.qmd
+        text: "Germinate Data Importation"
+      - href: pipeline/index.qmd
+        text: "Data Pipeline"
+
+page-footer:
+  left: "© 2025 COUSIN Project"
+  right: "Made with [Quarto](https://quarto.org/)"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

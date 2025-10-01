@@ -1,0 +1,11 @@
+/* css styles */
+/* Couleur personnalisée pour les titres */
+h1, h2, h3, h4, h5, h6 {
+  color: #009B7D;
+  font-weight: bold;
+}
+
+/* Spécifiquement pour les numéros et titres des sections */
+.section-title, .quarto-section-number {
+  color: #009B7D;
+}

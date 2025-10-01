@@ -1,0 +1,68 @@
+---
+title: "COUSIN Workshop"
+format:
+  html:
+    toc: false
+---
+
+# COUSIN Workshop Website
+
+Welcome to the **COUSIN Workshop Website**.  
+This platform gathers all the documentation and tutorials required for researchers, engineers, and students working on the **COUSIN project**.  
+
+It is designed to support two main areas:
+
+1. 🌿 **Germinate Data Importation** → for biological dataset management.  
+
+2. ⚙️ **Data Pipelines & Airflow** → for automation, reproducibility, and scalability of workflows.  
+
+---
+
+## 📑 Workshop Contents
+
+### 1. Germinate Data Importation User Guide
+Learn how to prepare and upload data into **Germinate** using templates and structured processes.  
+
+This section covers:
+
+- ✅ Before you start 
+
+- 📂 Template files (Passport, Trials, Environmental data)  
+
+- ⬆️ Uploading process  
+
+- 📝 Final considerations  
+
+👉 [Read the Guide](https://cousin-he.github.io/data-pipelines/germinate/)
+
+---
+
+### 2. Data Pipelines in COUSIN (Airflow Workshop)
+Understand how **data pipelines** are designed and orchestrated with **Apache Airflow** in the COUSIN project.  
+
+This section covers:
+
+- 🎯 Objectives and high-level architecture  
+
+- 🔄 Pipeline stages (ETL)  
+
+- 🧩 Apache Airflow concepts and example DAGs  
+
+- 🐳 Deployment with Docker  
+
+👉 [Explore the Pipelines](https://cousin-he.github.io/data-pipelines/pipeline/)
+
+---
+
+
+
+
+## 🙌 Acknowledgment
+This workshop is part of **COUSIN WP5** efforts, led by:  
+  
+- **José Felipe Ortega Soto** (WP leader) 
+- **Stephan Weise** (WP Leader) 
+
+---
+
+📌 *Use the navigation bar or links above to access the specific guides.*
